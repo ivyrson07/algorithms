@@ -1,0 +1,16 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "perf_hooks": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
